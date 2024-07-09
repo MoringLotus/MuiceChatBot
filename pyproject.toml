@@ -1,0 +1,21 @@
+[project]
+name = "mu"
+description = "chatbot"
+authors = [{name= "hx", email = "1084337181@qq.com"}]
+version = "1.0.0"
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://github.com/MoringLotus/MuiceChatBot"
+Documentation = "https://github.com/MoringLotus/MuiceChatBot/blob/main/README.md"
+Repository = "https://github.com/MoringLotus/MuiceChatBot"
+Changelog = "https://github.com/MoringLotus/MuiceChatBot/blob/main/CHANGELOG.md"
+Issues = "https://github.com/MoringLotus/MuiceChatBot/issues"
+
+[featurize]
+port = "20313"
+op_port = "35479"
+icon = "https://i2.hdslb.com/bfs/archive/fb8133ecd67a7eaed61476edbcc8c343e43237ae.jpg@320w_200h"
+author_github = "https://github.com/MoringLotus"
+name = "沐雪"
+newtab = false
